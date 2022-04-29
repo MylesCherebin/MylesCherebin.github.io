@@ -1,0 +1,186 @@
+
+@import url(https://fonts.googleapis.com/earlyaccess/opensanshebrew.css);
+
+body{
+  background-image: url("images/background.svg");
+}
+p {
+  font-family: 'Open Sans Hebrew', serif;
+}
+
+article {
+  width: 90%;
+  max-width: 600px;
+  padding: 20px;
+  margin: 0px auto;
+}
+
+#homepage {
+  border: solid;
+  height: 914px;
+}
+
+#homepage h1{
+  font-family: 'Open Sans Hebrew', serif;
+  margin-left: 27%;
+  margin-top: 22%;
+  font-size: 75px !important;
+  font-weight: lighter;
+  width: 850px;
+}
+#about {
+  border: solid;
+  height: 914px;
+}
+
+
+
+#about p {
+  text-align: left;
+}
+
+.left {
+  width: 900px !important;
+  margin-right: 78px;
+}
+
+.left p {
+  font-size: 20px;
+}
+.left button {
+  color:#FFFFFF;
+  background-color: #26CBFF;
+  border-radius: 10px;
+  font-family: 'Open Sans Hebrew', serif;
+  border-color: #26CBFF;
+  border: 0px;
+  font-size: 24px;
+  font-weight: bold;
+  width: 225px;
+  height: 60px;
+  margin-top: 60px;
+}
+
+.right {
+  width: 300px !important;
+}
+
+.right ul{
+  list-style-type: none;
+  color: #26CBFF;
+  font-size: 20px;
+  text-align: left!important;
+  margin: 0px;
+  padding: 0px;
+}
+
+.right li {
+  text-align: left !important;
+  margin: 0px;
+  padding: 0px;
+}
+
+.right p {
+  font-weight: bold;
+}
+.skills {
+  margin-top: 20px;
+}
+
+#resume {
+  border: solid;
+  height: 914px;
+}
+#resume p {
+  margin: 0px;
+  font-size: 16px;
+  text-align: left;
+}
+.work {
+  width: 700px !important;
+
+}
+
+.EoS {
+  margin-bottom: 10px !important;
+}
+
+.leadership {
+  width: 500px !important;
+}
+.leadership button {
+  color:#FFFFFF;
+  background-color: #26CBFF;
+  border-radius: 10px;
+  font-family: 'Open Sans Hebrew', serif;
+  border: 0px;
+  font-size: 24px;
+  font-weight: bold;
+  width: 270px;
+  height: 99px;
+  margin-top: 60px;
+
+}
+#project {
+  border: solid;
+  height: 914px;
+}
+
+#contact {
+  border: solid;
+  height: 914px;
+}
+
+#contact p {
+  text-align: left;
+  margin: 0px;
+}
+
+.thanks{
+  width: 1150px !important;
+}
+.linkedin{
+  width: auto !important;
+}
+h2 {
+  font-family: 'Open Sans Hebrew', serif;
+  margin-top: 110px !important;
+  font-size: 46px !important;
+}
+
+p {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+section {
+  min-height: 100vh;
+}
+
+a[type=button]{
+   -webkit-appearance: none;
+   -moz-appearance: none;
+   appearance: none;
+}
+
+nav{
+  background-color: #FFFFFF;
+  height: 110px;
+}
+
+.nav-link {
+  font-family: 'Open Sans Hebrew', serif;
+  top: 0px;
+  width: 100%;
+  color: black !important;
+}
+ul {
+  position: sticky !important;
+}
+
+a.nav-link:hover{
+  color: #26CBFF !important;
+  
+}
+
+
