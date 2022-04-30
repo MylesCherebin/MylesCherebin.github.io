@@ -142,6 +142,29 @@ article {
 .linkedin{
   width: auto !important;
 }
+
+input[type=text] {
+  border-radius: 10px;
+  border-color: #26CBFF;
+  font-family: 'Open Sans Hebrew', serif;
+}
+
+textarea {
+  border-radius: 10px;
+  border-color: #26CBFF; 
+}
+
+input[type=submit] {
+  border-radius: 10px;
+  color:#FFFFFF;
+  background-color: #26CBFF;
+  border: 0px;
+  height: 60px;
+  width: 225px;
+  font-size: 24px;
+  font-family: 'Open Sans Hebrew', serif;
+}
+
 h2 {
   font-family: 'Open Sans Hebrew', serif;
   margin-top: 110px !important;
