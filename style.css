@@ -8,13 +8,6 @@ p {
   font-family: 'Open Sans Hebrew', serif;
 }
 
-article {
-  width: 90%;
-  max-width: 600px;
-  padding: 20px;
-  margin: 0px auto;
-}
-
 #homepage {
   border: solid;
   border-color: #FFFFFF;
