@@ -126,6 +126,13 @@ article {
   height: 914px;
 }
 
+#project p {
+  font-size: 20px;
+  font-weight: lighter;
+  text-align: left;
+}
+
+
 #contact {
   border: solid;
   height: 914px;
