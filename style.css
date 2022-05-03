@@ -16,7 +16,7 @@ article {
 }
 
 #homepage {
-  border: solid;
+  
   height: 914px;
 }
 
@@ -30,6 +30,8 @@ article {
 }
 #about {
   border: solid;
+  border-color: #FFFFFF;
+  background-color: #FFFFFF;
   height: 914px;
 }
 
@@ -89,6 +91,8 @@ article {
 
 #resume {
   border: solid;
+  border-color: #FFFFFF;
+  background-color: #FFFFFF;
   height: 914px;
 }
 #resume p {
@@ -123,6 +127,8 @@ article {
 }
 #project {
   border: solid;
+  border-color: #FFFFFF;
+  background-color: #FFFFFF;
   height: 914px;
 }
 
@@ -135,6 +141,8 @@ article {
 
 #contact {
   border: solid;
+  border-color: #FFFFFF;
+  background-color: #FFFFFF;
   height: 914px;
 }
 
