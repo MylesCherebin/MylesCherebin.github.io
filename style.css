@@ -16,7 +16,9 @@ article {
 }
 
 #homepage {
-
+  border: solid;
+  border-color: #FFFFFF;
+  background-color: #FFFFFF;
   height: 914px;
 }
 
