@@ -16,7 +16,7 @@ article {
 }
 
 #homepage {
-  
+
   height: 914px;
 }
 
@@ -60,7 +60,7 @@ article {
   font-weight: bold;
   width: 225px;
   height: 60px;
-  margin-top: 60px;
+  margin-top: 80px;
 }
 
 .right {
@@ -167,7 +167,7 @@ input[type=text] {
 
 textarea {
   border-radius: 10px;
-  border-color: #26CBFF; 
+  border-color: #26CBFF;
 }
 
 input[type=submit] {
@@ -219,7 +219,5 @@ ul {
 
 a.nav-link:hover{
   color: #26CBFF !important;
-  
+
 }
-
-
