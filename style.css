@@ -134,6 +134,9 @@ p {
   text-align: left;
 }
 
+#project .col p {
+  font-size: 28px;
+}
 
 #contact {
   border: solid;
