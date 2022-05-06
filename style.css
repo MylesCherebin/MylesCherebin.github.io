@@ -134,7 +134,7 @@ p {
   text-align: left;
 }
 
-#project .col p {
+#project .row {
   font-size: 32px;
 }
 
