@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  margin: 200px;
+}
+
+
+
+h1{
+  text-align: center;
+}
+
+th, td {
+  padding: 6px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.cube{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.inline-block{
+  display: inline-block;
+}
+#authors{
+  text-align: center;
+}
