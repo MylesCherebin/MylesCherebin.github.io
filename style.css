@@ -216,3 +216,7 @@ a.nav-link:hover{
   color: #26CBFF !important;
 
 }
+
+#form_elements {
+  margin-left: 0px;
+}
